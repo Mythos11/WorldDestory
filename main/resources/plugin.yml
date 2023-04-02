@@ -1,0 +1,12 @@
+name: WorldDestruction
+version: '${version}'
+main: me.mythos.worlddissapears.Main
+api-version: 1.19
+commands:
+  startdestroy:
+    usage: /startdestroy
+    aliases:
+      - sd
+  wand:
+    aliases:
+      - bounds
